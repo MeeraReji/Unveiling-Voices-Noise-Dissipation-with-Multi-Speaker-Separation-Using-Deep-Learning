@@ -11,3 +11,4 @@ speechbrain==0.5.9
 torchmetrics==0.7.2
 wget==3.2
 huggingface_hub
+scikit-learn
